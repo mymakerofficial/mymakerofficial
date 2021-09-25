@@ -1,6 +1,6 @@
 <h1>My_Maker</h1>
 <p>
-  <img src="https://forthebadge.com/images/badges/0-percent-optimized.svg"> <img src="https://forthebadge.com/images/badges/built-with-love.svg"> <img src="https://forthebadge.com/images/badges/made-with-crayons.svg"> <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg"> 
+  <img src="https://forthebadge.com/images/badges/0-percent-optimized.svg"> <img src="https://forthebadge.com/images/badges/made-with-crayons.svg"> <img src="https://forthebadge.com/images/badges/built-with-love.svg"> <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg"> 
 </p>
 
 <h3><b>I like making stuff</b></h3>
