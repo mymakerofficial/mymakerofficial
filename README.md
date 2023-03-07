@@ -12,6 +12,10 @@ I mostly make dumb **websites and games**.
 ### Here's some cool work I did
 <table>
 <tr>
+  <td><b><a href="https://raccoon-chess.vercel.app">Raccoon Chess</a></b></td>
+  <td>Play chess with your friends online for free</td>
+</tr>
+<tr>
   <td><b><a href="https://profyle.net">Profyle</a></b></td>
   <td>A website for creating profiles</td>
 </tr>
@@ -29,18 +33,3 @@ I mostly make dumb **websites and games**.
 </tr>
 </table>
 <h4><b><a href="https://profyle.net/maker">visit my profyle for more!</a></b></h4>
-
-<!--
-**mymakerofficial/mymakerofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
